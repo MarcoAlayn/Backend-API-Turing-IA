@@ -5,6 +5,7 @@ module.exports = (sequelize) => {
     email: {
       type: DataTypes.STRING,
       allowNull: false,
+      primaryKey: true,
     },
   });
 };

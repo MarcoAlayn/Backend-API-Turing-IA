@@ -1,0 +1,13 @@
+POST http://localhost:3001/user/
+Content-Type: application/json
+
+{
+  "name": "John second",
+  "email": "my_mailTwo@hotmail.com",
+  "phone": "123456789",
+  "company": "My Company",
+  "job": "My Job", 
+  "country": "My Country",
+  "city": "My City",
+  "message": "lorem ipsum"
+}

@@ -2,5 +2,5 @@ POST http://localhost:3001/newsletter
 Content-Type: application/json
 
 {
-    "email" : "marc_rob92@hotmail.com",
+    "email" : "marc_rob92@hotmail.com"
 }
